@@ -1,0 +1,111 @@
+Partlist
+
+Exported from leto_ppm.brd at 10.09.2018 12:51
+
+EAGLE Version 9.1.3 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                        Package                 Library  Position (mm)         Orientation
+
+C1       10uF                         C0603                   knihovna (11.3 16.5)           R0
+C2       220nF                        C0402-SMALL             knihovna (11.5 20.9)           R0
+C3       220nF                        C0402-SMALL             knihovna (10.8 9.4)            R90
+C4       220nF                        C0402-SMALL             knihovna (9.7 7.8)             R270
+C5       10uF                         C0603                   knihovna (23.08 34.32)         R180
+C6       100nF                        C0402-SMALL             knihovna (20.5 28.25)          R90
+C7       10uF                         C0603                   knihovna (16.9 28.7)           R90
+C8       10uF                         C0603                   knihovna (17.7 23)             R0
+C9       100nF                        C0402-SMALL             knihovna (33.8 25.75)          R270
+C10      100nF                        C0402-SMALL             knihovna (28.12 35.67)         R90
+C11      1uF                          C0402-SMALL             knihovna (28.1 34)             R270
+C12      6pF                          C0402-SMALL             knihovna (28.16 22.38)         R180
+C13      6pF                          C0402-SMALL             knihovna (30.01 22.43)         R0
+C14      100nF                        C0402-SMALL             knihovna (35.65 33.45)         R270
+C15      4.7uF                        C0402-SMALL             knihovna (25.7 8.5)            R0
+C16      100nF                        C0402-SMALL             knihovna (16.345 38.094)       R180
+C17      10uF                         C0603                   knihovna (2.79 25.15)          R0
+C18      10uF 25V                     C0603                   knihovna (2.8 33.8)            R0
+C19      6pF                          C0402-SMALL             knihovna (20.15 32.45)         R225
+C20      6pF                          C0402-SMALL             knihovna (18.75 31.05)         R45
+C21      4.7uF                        C0402-SMALL             knihovna (65.2 18.4)           R180
+C22      4.7uF                        C0402-SMALL             knihovna (65.18 12.77)         R180
+C23      10uF                         C0603                   knihovna (8.9 21.6)            R180
+C24      220nF                        C0402-SMALL             knihovna (2.3 20.9)            R180
+C25      10uF                         C0603                   knihovna (4.9 21.6)            R0
+C26      100nF                        C0402-SMALL             knihovna (30.79 30.11)         R270
+C27      100nF                        C0402-SMALL             knihovna (25.15 22.45)         R0
+C28      100nF                        C0402-SMALL             knihovna (34.75 51)            R90
+CON1     KON-REDFIT-8PIN              KON-REDFIT-8PIN         knihovna (35.56 4.65)          R180
+D1       CD0603-S01575                0603-DIODE              knihovna (2 31.2)              R90
+IC1      MIC20XXMIC2005A-1YM5MIC2005A SOT23-5                 knihovna (64.7 15.52)          R180
+IC2      MAX30105                     14-OESIP                knihovna (31.4 50.6)           R0
+IC3      STC3115AIQT                  DFN10_2X3MM             knihovna (8 11)                R180
+IC4      PRTR5V0U2X                   SOT143                  knihovna (19.75 13.25)         R180
+IC5      MCP980X                      DNF82X3MM               knihovna (19.44 38.88)         R90
+IC6      MIC2251                      MLF-8-2X2               knihovna (4.83 28.08)          R270
+IC7      NCP1532                      UDNF10-3X3              knihovna (6.9 16.5)            R90
+IC8      ATSAML21G                    QFN48                   knihovna (25.57 27.61)         R0
+IC9      PCA9306                      SO8                     knihovna (25.65 43.7)          R270
+JP1      HEADER_1X32.54MM             1X3-2.54MM              knihovna (9.6 3.21)            R0
+JP2      HEADER_1X2-2MM               1X2_2MM                 knihovna (3.09 8.43)           R0
+JP3      M.2-67-22X42X4MM             M2-67POS-0.5MM          knihovna (56.81 6.49)          R0
+JP4      HEADER_1X6                   1X6_2.54                knihovna (14 51.85)            R180
+JP5      HEADER_1X2-2.54              1X2-2.54MM              knihovna (3.2 38.1)            R180
+L1       Ferite                       0603                    knihovna (16.9 25.6)           R90
+L2       10uH                         0603                    knihovna (26.14 34.32)         R180
+L3       LQM18FN100M00D               0603                    knihovna (2 28.1)              R90
+L4       DFE201210U                   0805                    knihovna (3.9 19.1)            R90
+L5       DFE201210U                   0805                    knihovna (9.9 19.1)            R90
+LED1     LED0603                      0603-DIODE              knihovna (39.55 51.5)          R270
+LED2     LED0603                      0603-DIODE              knihovna (45.2 51.5)           R270
+MD1      MOUNTINGHOLE2.5              MOUNTINGHOLE_2.5_PLATED knihovna (71 53)               R0
+MD2      MOUNTINGHOLE2.5              MOUNTINGHOLE_2.5_PLATED knihovna (3 53)                R0
+MD3      MOUNTINGHOLE2.5              MOUNTINGHOLE_2.5_PLATED knihovna (71 3)                R0
+MD4      MOUNTINGHOLE2.5              MOUNTINGHOLE_2.5_PLATED knihovna (3 3)                 R0
+NTC1     10k NTC                      C0402-SMALL             knihovna (6.42 7.8)            R90
+OSC1     ABM10W160006                 ABM10W                  knihovna (29.57 20.69)         R180
+OSC2     abs07w                       ABS07W                  knihovna (18.22 33.1)          R45
+Q1                                    SOT363                  knihovna (42.55 51.35)         R270
+R1       0.05R                        0603-RES                knihovna (12.72 6.75)          R90
+R2       200k                         C0402-SMALL             knihovna (11.9 19.6)           R90
+R3       10k                          C0402-SMALL             knihovna (10.8 7.8)            R270
+R4       1k                           C0402-SMALL             knihovna (8.6 7.8)             R90
+R5       1M                           C0402-SMALL             knihovna (5.4 7.8)             R270
+R6       10k                          C0402-SMALL             knihovna (10.75 12)            R270
+R7       10k                          C0402-SMALL             knihovna (7.51 7.8)            R270
+R8       330R                         C0402-SMALL             knihovna (33.4 33.14)          R180
+R9       1M                           C0402-SMALL             knihovna (25.7 9.583)          R180
+R10      30k                          C0402-SMALL             knihovna (15.7 12.35)          R0
+R11      47k                          C0402-SMALL             knihovna (15.7 13.4)           R180
+R12      0R                           C0402-SMALL             knihovna (15.7 11.3)           R180
+R13      0R                           C0402-SMALL             knihovna (23 12)               R270
+R14      10k                          C0402-SMALL             knihovna (6.08 25.26)          R180
+R15      1M                           C0402-SMALL             knihovna (4.5 31.75)           R180
+R16      330K                         C0402-SMALL             knihovna (4.5 30.9)            R0
+R17      4k7                          C0402-SMALL             knihovna (20.2 41.8)           R180
+R18      4k7                          C0402-SMALL             knihovna (20.2 43.05)          R180
+R19      150R                         C0402-SMALL             knihovna (19 54.7)             R0
+R20      150R                         C0402-SMALL             knihovna (14.24 44)            R270
+R21      10k                          C0402-SMALL             knihovna (63.3 18.4)           R0
+R22      DNP                          C0402-SMALL             knihovna (20.2 40.77)          R180
+R23      10K                          C0402-SMALL             knihovna (34.6 33.45)          R90
+R24      100k                         C0402-SMALL             knihovna (39.45 48.7)          R270
+R25      900k                         C0402-SMALL             knihovna (11.5 22.1)           R180
+R26      200k                         C0402-SMALL             knihovna (1.9 19.6)            R90
+R27      400k                         C0402-SMALL             knihovna (2.3 22.1)            R0
+R28      10k                          C0402-SMALL             knihovna (10.5 15.05)          R0
+R29      10k                          C0402-SMALL             knihovna (7.15 19.2)           R90
+R30      DNF                          C0402-SMALL             knihovna (6.2 19.2)            R270
+R31      10K                          C0402-SMALL             knihovna (36.95 52.3)          R0
+R32      1k                           C0402-SMALL             knihovna (42 54)               R90
+R33      10K                          C0402-SMALL             knihovna (34.8 25.75)          R270
+R34      1k                           C0402-SMALL             knihovna (43.1 54)             R270
+R35      100k                         C0402-SMALL             knihovna (44.25 48.7)          R90
+R36      500k                         C0402-SMALL             knihovna (-9.1 -2.4)           R0
+RESET    TACTB                        TACTB-64K-F             knihovna (40.8 34.9)           R180
+SERVICE  TACTB                        TACTB-64K-F             knihovna (40.8 27.6)           R180
+T1       P-MOSFET                     SOT23-R                 knihovna (15.2 46.8)           R0
+TP1      TPTP20R                      TP20R                   knihovna (3.08 12.23)          R0
+TP2      TPTP11R                      TP11R                   testpad  (3.1 23.2)            R0
+USB1     USB3140-30                   USB3140-30-0230         knihovna (20.07 6.08)          R0

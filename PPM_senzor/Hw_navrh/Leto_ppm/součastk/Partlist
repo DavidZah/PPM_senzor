@@ -1,0 +1,106 @@
+Partlist
+
+Exported from leto_ppm.sch at 07.08.2018 19:36
+
+EAGLE Version 9.1.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                        Device                       Package         Library  Sheet
+
+C1       10uF                         C-EUC0603                    C0603           knihovna 1
+C2       220nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C3       220nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C4       220nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C5       10uF                         C-EUC0603                    C0603           knihovna 2
+C6       100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C7       10uF                         C-EUC0603                    C0603           knihovna 2
+C8       10uF                         C-EUC0603                    C0603           knihovna 2
+C9       100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C10      100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C11      1uF                          C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C12      6pF                          C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C13      6pF                          C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C14      100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C15      4.7uF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C16      100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C17      10uF                         C-EUC0603                    C0603           knihovna 1
+C18      10uF 25V                     C-EUC0603                    C0603           knihovna 1
+C19      6pF                          C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C20      6pF                          C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C21      4.7uF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C22      4.7uF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C23      10uF                         C-EUC0603                    C0603           knihovna 1
+C24      220nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 1
+C25      10uF                         C-EUC0603                    C0603           knihovna 1
+C26      100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C27      100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+C28      100nF                        C-EUC0402-SMALL              C0402-SMALL     knihovna 2
+CON1     KON-REDFIT-8PIN              KON-REDFIT-8PIN              KON-REDFIT-8PIN knihovna 2
+D1       CD0603-S01575                DIODE                        0603-DIODE      knihovna 1
+IC1      MIC20XXMIC2005A-1YM5MIC2005A MIC20XXMIC2005A-1YM5MIC2005A SOT23-5         knihovna 1
+IC2      MAX30105                     MAX30105                     14-OESIP        knihovna 2
+IC3      STC3115AIQT                  STC3115AIQT                  DFN10_2X3MM     knihovna 1
+IC4      PRTR5V0U2X                   PRTR5V0U2X                   SOT143          knihovna 1
+IC5      MCP980X                      MCP980X                      DNF82X3MM       knihovna 2
+IC6      MIC2251                      MIC2251                      MLF-8-2X2       knihovna 1
+IC7      NCP1532                      NCP1532                      UDNF10-3X3      knihovna 1
+IC8      ATSAML21G                    ATSAML21G                    QFN48           knihovna 2
+IC9      PCA9306                      PCA9306                      SO8             knihovna 2
+JP1      HEADER_1X32.54MM             HEADER_1X32.54MM             1X3-2.54MM      knihovna 1
+JP2      HEADER_1X2-2MM               HEADER_1X2-2MM               1X2_2MM         knihovna 1
+JP3      M.2-67-22X42X4MM             M.2-67-22X42X4MM             M2-67POS-0.5MM  knihovna 2
+JP4      HEADER_1X6                   HEADER_1X6                   1X6_2.54        knihovna 2
+JP5      HEADER_1X2-2.54              HEADER_1X2-2.54              1X2-2.54MM      knihovna 1
+L1       Ferite                       INDUCTOR0603                 0603            knihovna 2
+L2       10uH                         INDUCTOR0603                 0603            knihovna 2
+L3       LQM18FN100M00D               INDUCTOR0603                 0603            knihovna 1
+L4       DFE201210U                   INDUCTOR0805                 0805            knihovna 1
+L5       DFE201210U                   INDUCTOR0805                 0805            knihovna 1
+LED1     LED0603                      LED0603                      0603-DIODE      knihovna 2
+LED2     LED0603                      LED0603                      0603-DIODE      knihovna 2
+NTC1     10k NTC                      RESISTOR-NTC0402             C0402-SMALL     knihovna 1
+OSC1     ABM10W160006                 CRYSTAL-GNDABM10W            ABM10W          knihovna 2
+OSC2     abs07w                       CRYSTAL                      ABS07W          knihovna 2
+Q1                                    MOSFET-N-X2-SOT363           SOT363          knihovna 2
+R1       0.05R                        RESISTOR0603-RES             0603-RES        knihovna 1
+R2       27k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R3       10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R4       1k                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R5       1M                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R6       10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R7       10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R8       330R                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R9       1M                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R10      30k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R11      47k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R12      0R                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R13      0R                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R14      10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R15      1M                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R16      330K                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R17      4k7                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R18      4k7                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R19      150R                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R20      150R                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R21      10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R22      DNP                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R23      10K                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R24      100k                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R25      120k                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R26      56k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R27      120k                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R28      10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R29      10k                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R30      DNF                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 1
+R31      10K                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R32      1k                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R33      10K                          RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R34      1k                           RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+R35      100k                         RESISTORC0402-SMALL          C0402-SMALL     knihovna 2
+RESET    TACTB                        TACTB                        TACTB-64K-F     knihovna 2
+SERVICE  TACTB                        TACTB                        TACTB-64K-F     knihovna 2
+T1       P-MOSFET                     P-MOSFET                     SOT23-R         knihovna 2
+TP1      TPTP20R                      TPTP20R                      TP20R           knihovna 1
+TP2      TPTP11R                      TPTP11R                      TP11R           testpad  1
+USB1     USB3140-30                   USB3140-30                   USB3140-30-0230 knihovna 1
